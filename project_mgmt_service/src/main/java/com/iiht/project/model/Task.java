@@ -1,6 +1,6 @@
 package com.iiht.project.model;
 
-import java.sql.Date;
+import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
